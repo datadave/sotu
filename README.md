@@ -1,1 +1,1 @@
-Initial Repository for Sharing Pyhon Code for Text Analysis of State of the Union Speeches
+Initial Repository for Sharing Python Code for Text Analysis of State of the Union Speeches
