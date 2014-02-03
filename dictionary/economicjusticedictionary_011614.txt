@@ -1,0 +1,42 @@
+candor,0
+candour,0
+common man,0
+common person,0
+corporate welfare,0
+disparity,0
+distribution,0
+employment,0
+equal,race
+equality of opportunity,0
+equality,race
+equity,race
+equivalence,0
+exploitation,0
+fair-mindedness,0
+fairness,0
+impartiality,0
+impoverishment,0
+individual,0
+inequality,0
+justice,0
+justness,0
+labor,0
+labour,0
+nonpartisanship,0
+poor,0
+poorness,0
+poverty,0
+poverty,0
+proletarian,0
+proletariat,0
+redistribution,0
+social class,0
+socio-economic class,0
+status,0
+toil,0
+trade union movement,0
+unemployment,0
+unequal,0
+victimization,0
+worker,0
+working class,0
